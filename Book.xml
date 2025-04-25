@@ -1,10 +1,10 @@
 <bookstore>
-<book category="fiction">
-<title lang="en">Harry Potter</title>
-<author>J.K. Rowling</author>
-</book>
-<book category="non-fiction">
-<title lang="en">Introduction to XPath</title>
-<author>John Doe</author>
-</book>
+    <book category="fiction">
+        <title lang="en">Harry Potter</title>
+        <author>J.K. Rowling</author>
+    </book>
+    <book category="non-fiction">
+        <title lang="en">Introduction to XPath</title>
+        <author>John Doe</author>
+    </book>
 </bookstore>
