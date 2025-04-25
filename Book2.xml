@@ -1,0 +1,12 @@
+<bookstore>
+    <book category="Fiction">
+        <title>Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <price>25</price>
+    </book>
+    <book category="Non-Fiction">
+        <title>Introduction to XPath</title>
+        <author>John Doe</author>
+        <price>30</price>
+    </book>
+</bookstore>
