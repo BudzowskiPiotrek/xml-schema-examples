@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    <productos>
+        <producto id="001">
+            <nombre>Ordenador Sobremesa HP</nombre>
+            <precio>500</precio>
+            <paisLanzamiento>España</paisLanzamiento>
+            <lanzamiento año="2022" />
+        </producto>
+        <producto id="002">
+            <nombre>iPad 10 Pulgadas</nombre>
+            <precio>400</precio>
+            <paisLanzamiento>Estado Unidos</paisLanzamiento>
+            <lanzamiento año="2021" />
+        </producto>
+        <producto id="003">
+            <nombre>Televisión LG 55 Pulgadas</nombre>
+            <precio>600</precio>
+            <paisLanzamiento>Corea</paisLanzamiento>
+            <lanzamiento año="2023" />
+        </producto>
+        <producto id="004">
+            <nombre>Google Pixel</nombre>
+            <precio>350</precio>
+            <paisLanzamiento>Estados Unidos</paisLanzamiento>
+            <lanzamiento año="2024" />
+        </producto>
+        <producto id="005">
+            <nombre>iPhone 6 Pulgadas</nombre>
+            <precio>800</precio>
+            <paisLanzamiento>Estados Unidos</paisLanzamiento>
+            <lanzamiento año="2023" />
+        </producto>
+    </productos>
+    <categorias>
+        <categoria id="001A">
+            <nombre>Móviles</nombre>
+            <cantidadProductos>2</cantidadProductos>
+            <producto>iPhone 6 Pulgadas</producto>
+            <producto>Google Pixel</producto>
+        </categoria>
+        <categoria id="002B">
+            <nombre>Televisiones</nombre>
+            <cantidadProductos>1</cantidadProductos>
+            <producto>Televisión LG 55 Pulgadas</producto>
+        </categoria>
+        <categoria id="003C">
+            <nombre>Tablets</nombre>
+            <cantidadProductos>1</cantidadProductos>
+            <producto>iPad 10 Pulgadas</producto>
+        </categoria>
+        <categoria id="004D">
+            <nombre>Ordenadores</nombre>
+            <cantidadProductos>1</cantidadProductos>
+            <producto>Ordenador Sobremesa HP</producto>
+        </categoria>
+    </categorias>
+</tienda>

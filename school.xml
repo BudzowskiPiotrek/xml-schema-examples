@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+    <classroom id="101" floor="1">
+        <name>Math Classroom</name>
+        <furniture>
+            <chairs>30</chairs>
+            <desks>15</desks>
+            <tables>5</tables>
+        </furniture>
+        <equipment>
+            <windows>4</windows>
+            <whiteboards>2</whiteboards>
+            <computers>20</computers>
+            <lockers>10</lockers>
+        </equipment>
+    </classroom>
+
+    <classroom id="201" floor="2">
+        <name>Science Laboratory</name>
+        <furniture>
+            <chairs>24</chairs>
+            <desks>12</desks>
+            <tables>8</tables>
+        </furniture>
+        <equipment>
+            <windows>6</windows>
+            <whiteboards>1</whiteboards>
+            <microscopes>10</microscopes>
+            <safetyShowers>1</safetyShowers>
+        </equipment>
+    </classroom>
+    
+    <classroom id="301" floor="3">
+        <name>Language Arts Classroom</name>
+        <furniture>
+            <chairs>25</chairs>
+            <desks>20</desks>
+            <tables>6</tables>
+        </furniture>
+        <equipment>
+            <windows>3</windows>
+            <whiteboards>2</whiteboards>
+            <computers>15</computers>
+            <bookshelves>5</bookshelves>
+        </equipment>
+    </classroom>
+
+    <classroom id="401" floor="4">
+        <name>History Classroom</name>
+        <furniture>
+            <chairs>28</chairs>
+            <desks>18</desks>
+            <tables>7</tables>
+        </furniture>
+        <equipment>
+            <windows>5</windows>
+            <whiteboards>3</whiteboards>
+            <computers>12</computers>
+            <lockers>8</lockers>
+        </equipment>
+    </classroom>
+</school>
