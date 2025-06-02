@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zoologico>
+    <animales>
+        <familia tipo="Mamiferos">
+           <nombre>Tigre</nombre>
+           <genero>Felino</genero>
+           <peso>170</peso>
+        </familia>
+        <familia tipo="Aves">
+           <nombre>Buho real</nombre>
+           <genero>Rapaz</genero>
+           <peso>30</peso>
+        </familia>
+        <familia tipo="Reptiles">
+            <nombre>Dragon de komodo</nombre>
+            <genero>Saurio</genero>
+            <peso>150</peso>
+        </familia>
+        <familia tipo="Anfibios">
+            <nombre>Triton vientre de fuego</nombre>
+            <genero>Triturus</genero>
+            <peso>1</peso>
+        </familia>
+        <familia tipo="Peces">
+            <nombre>Dorada</nombre>
+            <genero>Carassius</genero>
+            <peso>3</peso>
+        </familia>
+    </animales>
+    <recinto>
+        <tipo id="Mamifero">
+            <medida>55</medida>
+            <acondicionamiento>Jungla</acondicionamiento>
+            <presupuesto>12000</presupuesto>
+        </tipo>
+        <tipo id="Aves">
+            <medida>90</medida>
+            <acondicionamiento>Selva</acondicionamiento>
+            <presupuesto>18000</presupuesto>
+        </tipo>
+        <tipo id="Reptiles">
+            <medida>15</medida>
+            <acondicionamiento>Desierto</acondicionamiento>
+            <presupuesto>9000</presupuesto>
+        </tipo>
+        <tipo id="Anfibios">
+            <medida>12</medida>
+            <acondicionamiento>Charca</acondicionamiento>
+            <presupuesto>11000</presupuesto>
+        </tipo>
+        <tipo id="Peces">
+            <medida>45</medida>
+            <acondicionamiento>Fondo Marino</acondicionamiento>
+            <presupuesto>26000</presupuesto>
+        </tipo>
+    </recinto>
+</zoologico>
