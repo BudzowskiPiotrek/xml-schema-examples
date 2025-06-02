@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fiestas>
+    <bailes>
+        <baile id="1">
+            <nombre>Bachata</nombre>
+            <profesor>Juan Miguel</profesor>
+            <fechaInicio>10-1-2024</fechaInicio>
+            <fechaFin>10-2-2024</fechaFin>
+        </baile>
+        <baile id="2">
+            <nombre>Bolero</nombre>
+            <profesor>Luisa</profesor>
+            <fechaInicio>10-3-2024</fechaInicio>
+            <fechaFin>10-4-2024</fechaFin>
+        </baile>
+        <baile id="3">
+            <nombre>Cumbia</nombre>
+            <profesor>Andrea</profesor>
+            <fechaInicio>10-5-2024</fechaInicio>
+            <fechaFin>10-6-2024</fechaFin>
+        </baile>
+    </bailes>
+    <clases>
+        <clase id="001">
+            <aforo>10</aforo>
+            <horasLectivas>40</horasLectivas>
+            <baile>Bachata</baile>
+        </clase>
+        <clase id="002">
+            <aforo>15</aforo>
+            <horasLectivas>30</horasLectivas>
+            <baile>Bolero</baile>
+        </clase>
+        <clase id="003">
+            <aforo>30</aforo>
+            <horasLectivas>27</horasLectivas>
+            <baile>Cumbia</baile>
+        </clase>
+    </clases>
+</fiestas>
