@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+	<producto>
+		<nombreproducto>Portátil Lenovo ThinkPad X1 Carbon</nombreproducto>
+		<fabricante>Lenovo</fabricante>
+		<precio>1200</precio>
+	</producto>
+	<producto>
+		<nombreproducto>Smartphone Samsung Galaxy S21</nombreproducto>
+		<fabricante>Samsung</fabricante>
+		<precio>900</precio>
+	</producto>
+	<producto>
+		<nombreproducto>Monitor LG 27GN950-B</nombreproducto>
+		<fabricante>LG</fabricante>
+		<precio>1000</precio>
+	</producto>
+	<producto>
+		<nombreproducto>Tablet Apple iPad Pro 12.9</nombreproducto>
+		<fabricante>Apple</fabricante>
+		<precio>1100</precio>
+	</producto>
+	<producto>
+		<nombreproducto>Altavoz Sonos Beam</nombreproducto>
+		<fabricante>Sonos</fabricante>
+		<precio>400</precio>
+	</producto>
+</productos>
