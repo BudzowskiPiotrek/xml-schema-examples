@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instrumentos>
+    <instrumento id="001">
+        <nombre>Bongos</nombre>
+        <familia>Percusión</familia>
+        <origen>Cuba</origen>
+        <fecha_creacion>1992</fecha_creacion>
+        <materiales>
+            <material>Madera</material>
+            <material>Cuero</material>
+        </materiales>
+    </instrumento>
+    <instrumento id="002">
+        <nombre>Clarinete</nombre>
+        <familia>Viento Madera</familia>
+        <origen>Francia</origen>
+        <fecha_creacion>1690</fecha_creacion>
+        <materiales>
+            <material>Madera de teca</material>
+        </materiales>
+    </instrumento>
+    <instrumento id="003">
+        <nombre>Violonchelo</nombre>
+        <familia>Cuerda</familia>
+        <origen>Italia</origen>
+        <fecha_creacion>1601</fecha_creacion>
+        <materiales>
+            <material>Madera</material>
+        </materiales>
+    </instrumento>
+    <instrumento id="004">
+        <nombre>Violin electronico</nombre>
+        <familia>Cuerda</familia>
+        <origen>India</origen>
+        <fecha_creacion>1936</fecha_creacion>
+        <materiales>
+            <material>Madera</material>
+            <material>Componente electricos</material>
+        </materiales>
+    </instrumento>
+    <instrumento id="005">
+        <nombre>Platillos</nombre>
+        <familia>Percusion</familia>
+        <origen>Turquia</origen>
+        <fecha_creacion>1499</fecha_creacion>
+        <materiales>
+            <material>Metal</material>
+        </materiales>
+    </instrumento>
+    <instrumento id="006">
+        <nombre>Trompa</nombre>
+        <familia>Viento Metal</familia>
+        <origen>Austria</origen>
+        <fecha_creacion>1878</fecha_creacion>
+        <materiales>
+            <material>Metal</material>
+        </materiales>
+    </instrumento>
+</instrumentos>
